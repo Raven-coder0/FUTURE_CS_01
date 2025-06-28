@@ -1,7 +1,7 @@
 
 # 🔍 DVWA Vulnerability Assessment Report
 
-**Author:** Jagadeesh Kommineni   
+**Author:** Jagadeesh Kommineni  
 **Environment:** DVWA (Damn Vulnerable Web Application)  
 **Platform:** Kali Linux  
 **Tools Used:** Burp Suite, Apache2, MySQL, curl, DVWA, OWASP ZAP, Browser
@@ -73,7 +73,7 @@ DVWA_Report/
 
 This project also includes a compliance checklist against [OWASP Top 10 – 2021](https://owasp.org/Top10/) for educational alignment.
 
-
+📄 [OWASP_Top10_Checklist_DVWA.docx](./OWASP_Top10_Checklist_DVWA.docx)
 
 ---
 
