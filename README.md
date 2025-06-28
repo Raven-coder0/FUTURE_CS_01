@@ -16,7 +16,7 @@ This project documents a complete penetration testing exercise on the **Damn Vul
 
 ## 🔧 Setup Details
 
-- **DVWA URL:** `http://localhost/dvwa`
+- **DVWA URL:** `http://localhost/DVWA`
 - **Security Level:** Low (for full vulnerability exposure)
 - **Web Server:** Apache2
 - **Database:** MySQL
